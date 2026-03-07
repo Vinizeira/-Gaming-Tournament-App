@@ -12,7 +12,7 @@ to structure and code the entire application.
 ---
 
 ## 🗺️ Mind Map
-> The mind map was created in Miro and used as the only guide to build this project.
+> The mind map was created in Miro by me, and used as the only guide to build this project.
 > [Click here to view the full mind map](https://miro.com/welcomeonboard/d3RkLzdKS21teFVHSjRZMU1mVnd0WWlUbUk0NSsrNmN2bXJoUFlVMGtYU3FqNGprNjU5QVBFNHUvSXBuT01tTzJVdWlnWnJXRmVtWmRCTk1QVzhTV2duRURSMm50azlwRjdlcmN1Tm4wRnhOUXJUcFdRcTZlenhnWWUyVVNFZzZNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=150684704325)
 
 ---
