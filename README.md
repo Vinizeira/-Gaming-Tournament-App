@@ -12,7 +12,7 @@ This project was built as a Java challenge to practice core programming concepts
 
 ## 🗺️ Mind Map
 
-The mind map was created in **Miro** and used as the main guide to plan and build this project step by step. *(![Mind map](https://github.com/user-attachments/assets/bf48069a-5481-4064-92a3-caa722627c0c)
+The mind map was created in **Miro** and used as the main guide to plan and build this project step by step. *(![Mind map](https://github.com/user-attachments/assets/9b019c05-675c-442c-8bfa-c8f9e29780c0)
 )*
 
 ---
@@ -64,7 +64,7 @@ compareTo → Integer.compare(otherPlayer.score, this.score)
 
 ```
 Enter tournament name: 
-Copa Java
+Java Cup
 
 Enter player name: Ana
 Enter score: 1200
@@ -85,11 +85,11 @@ How do you want to sort the ranking?
 
 Total players: 2
 
-🏆 RANKING - Copa Java:
-Ana - 1200 pts (Copa Java)
-Carlos - 850 pts (Copa Java)
+🏆 RANKING - Java Cup:
+Ana - 1200 pts (Java Cup)
+Carlos - 850 pts (Java Cup)
 
-🏆 The champion of the Copa Java is: Ana - 1200 pts (Copa Java)
+🏆 The champion of the Java Cup is: Ana - 1200 pts (Java Cup)
 ```
 
 ---
@@ -98,7 +98,7 @@ Carlos - 850 pts (Copa Java)
 
 **Step 1 — Enter the tournament name**
 ```java
-Enter tournament name: Copa Java
+Enter tournament name: Java Cup
 ```
 
 **Step 2 — Register a player**
@@ -124,11 +124,11 @@ Enter 0 to exit or 1 to continue or 2 to remove player:
 
 **Step 5 — See the ranking**
 ```java
-🏆 RANKING - Copa Java:
-Ana - 1200 pts (Copa Java)
-Carlos - 850 pts (Copa Java)
+🏆 RANKING - Java Cup:
+Ana - 1200 pts (Java Cup)
+Carlos - 850 pts (Java Cup)
 
-🏆 The champion of the Copa Java is: Ana - 1200 pts (Copa Java)
+🏆 The champion of the Java Cup is: Ana - 1200 pts (Java Cup)
 ```
 
 ---
