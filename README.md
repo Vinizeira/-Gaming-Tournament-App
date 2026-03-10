@@ -12,7 +12,7 @@ This project was built as a Java challenge to practice core programming concepts
 
 ## 🗺️ Mind Map
 
-The mind map was created in **Miro** and used as the main guide to plan and build this project step by step. *(![Mind map](https://github.com/user-attachments/assets/4b139b13-38c8-416c-8db3-544f63a764ca)
+The mind map was created in **Miro** and used as the main guide to plan and build this project step by step. *(![Mind map](https://github.com/user-attachments/assets/bf48069a-5481-4064-92a3-caa722627c0c)
 )*
 
 ---
@@ -85,6 +85,45 @@ How do you want to sort the ranking?
 
 Total players: 2
 
+🏆 RANKING - Copa Java:
+Ana - 1200 pts (Copa Java)
+Carlos - 850 pts (Copa Java)
+
+🏆 The champion of the Copa Java is: Ana - 1200 pts (Copa Java)
+```
+
+---
+
+## 🕹️ How to Use
+
+**Step 1 — Enter the tournament name**
+```java
+Enter tournament name: Copa Java
+```
+
+**Step 2 — Register a player**
+```java
+Enter player name: Ana
+Enter score: 1200
+```
+
+**Step 3 — Continue, remove or exit**
+```java
+Enter 0 to exit or 1 to continue or 2 to remove player:
+// 1 → add more players
+// 2 → remove a player by name
+// 0 → finish and go to ranking
+```
+
+**Step 4 — Choose sorting**
+```java
+1 - Score Descending  // best players first
+2 - Score Ascending   // lowest score first
+3 - Name Alphabetically // A to Z
+```
+
+**Step 5 — See the ranking**
+```java
 🏆 RANKING - Copa Java:
 Ana - 1200 pts (Copa Java)
 Carlos - 850 pts (Copa Java)
